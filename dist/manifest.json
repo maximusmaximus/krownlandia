@@ -1,0 +1,16 @@
+{
+  "name": "Krownlandia Gateway",
+  "short_name": "Krownlandia",
+  "description": "Interactive browser-based Krownlandia Theme Park and community-world prototype",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#122c40",
+  "theme_color": "#0b263a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b263a'/%3E%3Cpath d='M10 20l12 10 10-18 10 18 12-10-7 30H17z' fill='%23e9be64'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
